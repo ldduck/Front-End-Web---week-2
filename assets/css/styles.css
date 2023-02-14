@@ -1,3 +1,20 @@
 body {
-    background-color:lightblue;
+    background-color: #0E273C;
+    text-align: center;
+}
+
+main {
+    color : #69DC9E;
+    background-color: #0E273C;
+
+}
+
+header {
+    color: #69DC9E;
+    background-color: #0E273C;
+}
+
+nav {
+    color: peachpuff;
+
 }

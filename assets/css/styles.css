@@ -4,17 +4,32 @@ body {
 }
 
 main {
-    color : #69DC9E;
+    color : #f0cc54;
     background-color: #0E273C;
 
 }
+main p{
+    color: #f0cc54;
+}
 
+/* this is a comment*/
 header {
-    color: #69DC9E;
-    background-color: #0E273C;
+    background-image: url(../images/Dog.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 nav {
-    color: peachpuff;
+    color: #f0cc54;
+    width: 40%;
+    float: left;
+    margin: 1em;
+    padding: 1em;
 
+}
+
+footer {
+    color: #f0cc54;
 }
